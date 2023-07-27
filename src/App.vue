@@ -39,7 +39,7 @@
   <nav class="flex justify-around py-4 text-xs">
     <router-link to="/" class="text-gray-300 hover:text-white">Home</router-link>
     <router-link to="/about" class="text-gray-300 hover:text-white">About</router-link>
-    <router-link to="/projects" class="text-gray-300 hover:text-white">Portfolio</router-link>
+    <router-link to="/projects" class="text-gray-300 hover:text-white">Projects</router-link>
   </nav>
 </footer>
 </template>
