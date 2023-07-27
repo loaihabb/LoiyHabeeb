@@ -257,7 +257,7 @@ export default {
       <section
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
-          <img class="w-9/12 rounded-full mb-3 fadein-up"
+          <img class="w-8/12 rounded-full border-4 border-amber-200 pict fadein-up"
             src="https://i.pinimg.com/564x/43/b0/59/43b059eb553f66b94f1bf4133df0e1bd.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
