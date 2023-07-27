@@ -227,4 +227,11 @@ body {
 .fade-500 {
   animation-delay: 500ms;
 }
+
+  @media (max-width: 767px) {
+    .pict {
+      width: 200px; 
+      height: 300px; 
+    }
+  }
 </style>
