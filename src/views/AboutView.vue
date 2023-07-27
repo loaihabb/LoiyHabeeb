@@ -258,7 +258,7 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+            src="https://i.pinimg.com/564x/43/b0/59/43b059eb553f66b94f1bf4133df0e1bd.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
@@ -273,8 +273,8 @@ export default {
           </p>
           <p class="mb-3 fadein-left fadeins-2">
             &nbsp; &nbsp;<strong><u>Network & Cyber Security</u><br></strong>
-            &nbsp; &nbsp; &nbsp;I learned about networks during school because of the lessons, we tried to set up many networks using the cisco
-            packet tracer application, Furthermore, my passion for networks was nurtured during my school years as we extensively
+            &nbsp; &nbsp; &nbsp;I learned about networks during university because of the lessons, we tried to set up many networks using the cisco
+            packet tracer application, Furthermore, my passion for networks was nurtured during my university years as we extensively
             worked on setting up various networks using the Cisco Packet Tracer application. Through hands-on exercises and
             simulations, I gained valuable experience in network configuration, troubleshooting, and optimization. This practical exposure 
             has honed my skills in designing secure and efficient network infrastructures, ensuring seamless connectivity and data transmission.
